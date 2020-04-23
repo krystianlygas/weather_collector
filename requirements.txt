@@ -1,0 +1,7 @@
+alembic
+psycopg2-binary
+SQLAlchemy
+SQLAlchemy-Wrapper
+sqlacodegen
+requests
+pytz
